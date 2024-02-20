@@ -1,0 +1,13 @@
+{
+  "POE": {
+    "Chapter 2": {
+      "OPENING OF CEREMONY": "This is the opening of ceremony\r\n",
+      "Another opening ": "This is another opening\r\n"
+    }
+  },
+  "DRRM": {
+    "Chapter 1": {
+      "This is the first Chapter": "this is another test myan\r\nto check if the code works properly after changes"
+    }
+  }
+}
